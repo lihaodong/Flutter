@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+android/.gradle/
+android/flutter_app_android.iml
+build/
+test/
