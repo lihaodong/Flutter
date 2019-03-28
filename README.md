@@ -1,16 +1,16 @@
-# flutter_app
+## How to use
 
-A new Flutter application.
+从下面选择对应的类，查看学习即可
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 练习Flutter Demo实例
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+* ### 登录模版 -> [login.dart][login.dart]
+* ### Image图片显示及选择模版 -> [image.dart][image.dart]
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+
+
+[login.dart]: https://github.com/lihaodong/Flutter/blob/master/lib/login.dart
+[image.dart]: https://github.com/lihaodong/Flutter/blob/master/lib/image.dart
